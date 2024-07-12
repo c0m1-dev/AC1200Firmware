@@ -83,5 +83,5 @@ For the RC04 model, you will need to install additional kernel modules due to th
 9. Install the additional kernel modules.
 
 ## Additional Resources
-For more guidance, check out the following link: [OpenWRT Forum Discussion} (https://forum.openwrt.org/t/almost-supported-xiaomi-ra75-aka-miwifi-range-extender-ac1200/134855).
+For more guidance, check out the following link: [OpenWRT Forum Discussion](https://forum.openwrt.org/t/almost-supported-xiaomi-ra75-aka-miwifi-range-extender-ac1200/134855).
 
