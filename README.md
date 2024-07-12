@@ -1,4 +1,4 @@
-## Xiaomi Extender AC1200 Firmware Migration to OpenWRT
+#* Xiaomi Extender AC1200 Firmware Migration to OpenWRT
 Overview
 This project provides a step-by-step guide to replace the stock firmware of the Xiaomi Extender AC1200 with OpenWRT. Due to similarities in chip architecture with other Xiaomi routers, this device is nearly fully supported by OpenWRT, enabling successful modifications for enhanced functionality.
 
