@@ -74,15 +74,15 @@ kmod-mt7615e
 kmod-mt7663-firmware-ap (or -sta)
 ````
 ## Summary of the Full Process for RC04
-Open the device.
-Solder a header for the serial port.
-Unsolder the flash ROM (if the test clip does not work).
-Change the boot variables as described.
-Resolder the flash.
-Boot via serial console and select option 2.
-Feed the sysupgrade file for RC75 via TFTP.
-Log in after installation and reboot.
-Install the additional kernel modules.
+- Open the device.
+- Solder a header for the serial port.
+= Unsolder the flash ROM (if the test clip does not work).
+- Change the boot variables as described.
+- Resolder the flash.
+- Boot via serial console and select option 2.
+- Feed the sysupgrade file for RC75 via TFTP.
+- Log in after installation and reboot.
+- Install the additional kernel modules.
 
 Additional Resources
 For more guidance, check out the following link: OpenWRT Forum Discussion https://forum.openwrt.org/t/almost-supported-xiaomi-ra75-aka-miwifi-range-extender-ac1200/134855.
